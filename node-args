@@ -1,0 +1,47 @@
+
+
+                           test fixtures to use for wifi collector metrics
+      --collector.arp           Enable the arp collector (default: enabled).
+      --collector.bcache        Enable the bcache collector (default: enabled).
+      --collector.bonding       Enable the bonding collector (default: disabled).
+      --collector.buddyinfo     Enable the buddyinfo collector (default: disabled).
+      --collector.conntrack     Enable the conntrack collector (default: enabled).
+      --collector.cpu           Enable the cpu collector (default: enabled).
+      --collector.diskstats     Enable the diskstats collector (default: enabled).
+      --collector.drbd          Enable the drbd collector (default: disabled).
+      --collector.edac          Enable the edac collector (default: enabled).
+      --collector.entropy       Enable the entropy collector (default: enabled).
+      --collector.filefd        Enable the filefd collector (default: enabled).
+      --collector.filesystem    Enable the filesystem collector (default: enabled).
+      --collector.gmond         Enable the gmond collector (default: disabled).
+      --collector.hwmon         Enable the hwmon collector (default: enabled).
+      --collector.infiniband    Enable the infiniband collector (default: enabled).
+      --collector.interrupts    Enable the interrupts collector (default: disabled).
+      --collector.ipvs          Enable the ipvs collector (default: enabled).
+      --collector.ksmd          Enable the ksmd collector (default: disabled).
+      --collector.loadavg       Enable the loadavg collector (default: enabled).
+      --collector.logind        Enable the logind collector (default: disabled).
+      --collector.mdadm         Enable the mdadm collector (default: enabled).
+      --collector.megacli       Enable the megacli collector (default: disabled).
+      --collector.meminfo       Enable the meminfo collector (default: enabled).
+      --collector.meminfo_numa  Enable the meminfo_numa collector (default: disabled).
+      --collector.mountstats    Enable the mountstats collector (default: disabled).
+      --collector.netdev        Enable the netdev collector (default: enabled).
+      --collector.netstat       Enable the netstat collector (default: enabled).
+      --collector.nfs           Enable the nfs collector (default: disabled).
+      --collector.ntp           Enable the ntp collector (default: disabled).
+      --collector.qdisc         Enable the qdisc collector (default: disabled).
+      --collector.runit         Enable the runit collector (default: disabled).
+      --collector.sockstat      Enable the sockstat collector (default: enabled).
+      --collector.stat          Enable the stat collector (default: enabled).
+      --collector.supervisord   Enable the supervisord collector (default: disabled).
+      --collector.systemd       Enable the systemd collector (default: disabled).
+      --collector.tcpstat       Enable the tcpstat collector (default: disabled).
+      --collector.textfile      Enable the textfile collector (default: enabled).
+      --collector.time          Enable the time collector (default: enabled).
+      --collector.uname         Enable the uname collector (default: enabled).
+      --collector.vmstat        Enable the vmstat collector (default: enabled).
+      --collector.wifi          Enable the wifi collector (default: enabled).
+      --collector.xfs           Enable the xfs collector (default: enabled).
+      --collector.zfs           Enable the zfs collector (default: enabled).
+      --collector.timex         Enable the timex collector (default: enabled).
